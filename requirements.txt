@@ -1,0 +1,10 @@
+cvzone==1.6.1
+Flask
+matplotlib
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.3
+roboflow==1.1.24
+scipy==1.14.1
+SpeechRecognition==3.11.0
+tensorflow==2.18.0
